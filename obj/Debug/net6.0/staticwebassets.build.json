@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4tDSUVuG8dq8iXdFtxJGs60NA54uepvZPsm5L3onCjI=",
+  "Source": "vehicle-enrollment-api",
+  "BasePath": "_content/vehicle-enrollment-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
